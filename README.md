@@ -14,7 +14,7 @@ yarn run build
 
 ## サイト
 PC版表示
-https://dic.nicovideo.jp/a/kmnz?v=pc&from=look_pcver
+https://dic.nicovideo.jp/a/somunia?v=pc&from=look_pcver
 
 スマホ版表示
-https://dic.nicovideo.jp/t/a/kmnz?v=sp&from=look_spver
+https://dic.nicovideo.jp/t/a/somunia?v=sp&from=look_spver
