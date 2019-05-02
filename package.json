@@ -1,0 +1,14 @@
+{
+  "name": "somunia-niconico-dic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/thgilcp/somunia-niconico-dic.git",
+  "author": "thgilcp <thgilcp@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "css-inliner": "^1.1.4"
+  },
+  "scripts": {
+    "build": "node index.js"
+  }
+}
