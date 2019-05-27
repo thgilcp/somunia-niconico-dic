@@ -167,14 +167,14 @@ h4 {
   overflow: auto;
   max-height: 9em;
 }
-.scroll.history{
+.scroll.history {
   max-height: 12em;
 }
-.scroll.music{
+.scroll.music {
   max-height: 30em;
 }
 .scroll.somu_art,
-.scroll.goods{
+.scroll.goods {
   max-height: 20em;
   padding: 1em;
 }
@@ -191,6 +191,7 @@ h4 {
 }
 
 a.mv {
+  font-size: 12px;
   color: #e1f5ff;
   font-weight: bold;
   padding: 0.2em 0.5em;
